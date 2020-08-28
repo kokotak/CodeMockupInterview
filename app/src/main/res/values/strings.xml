@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CodeMockupInterview</string>
+    <string name="peraturan">*Peraturan*\n Permainan dimulai dalam 3 ronde\n Silahkan menebak angka dari 0 - 9\n Pemenangnya adalah yang benar mendekati\n atau yang paling dekat dengan angka hasil random </string>
+    <string name="nama_pemain">Nama Pemain</string>
+    <string name="mulai_tebak">Mulai Tebak</string>
+</resources>
